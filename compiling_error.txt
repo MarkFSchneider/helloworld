@@ -1,0 +1,7 @@
+C:\Users\Mark\Documents\GitHub\helloworld\helloworld.cpp: In function 'int main()':
+C:\Users\Mark\Documents\GitHub\helloworld\helloworld.cpp:6:28: error: expected ';' before 'bob'
+     cout << "Hello, World!"
+                            ^
+                            ;
+     bob = 3
+     ~~~                     
